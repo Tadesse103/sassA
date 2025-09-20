@@ -9,6 +9,7 @@ export class Exception extends Error {
   private constructor();
 
   /**
+   * hi
    * A human-friendly representation of the exception.
    *
    * Because many tools simply print `Error.message` directly, this includes not
